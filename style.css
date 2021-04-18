@@ -1,0 +1,54 @@
+.links:hover {
+   background-color: chartreuse;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: New Tegomin;
+    font-size: 20px;
+    text-align: right;
+      background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.ok {
+    text-align: center;
+    font-size: 34;
+    font-family: New Tegomin;
+}
+.op {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+.menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    font-family: sans-serif;
+    top: 0px;
+    z-index: 10;
+}
+h6 {
+    font-size: 17;
+}
+#bot {
+    text-align: center;
+    font-size: 34;
+    font-family: New Tegomin
+}
+
+.nope {
+    tab-size: 50px;
+}
